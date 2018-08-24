@@ -1,0 +1,24 @@
+#zgen load oh-my-zsh themes/agnoster
+#zgen load alo0oz/itg.zsh-theme itg
+#zgen load alo0oz/linuxer linuxer-fancy
+#zgen load banminkyoz/purify purify
+#zgen load bhilburn/powerlevel9k powerlevel9k
+#zgen load denysdovhan/spaceship-prompt spaceship
+#zgen load eendroroy/nothing nothing
+#zgen load eproxus/pad.zsh-theme pad
+#zgen load geometry-zsh/geometry geometry
+#zgen load LasaleFamine/phi-zsh-theme phi
+#zgen load lenguyenthanh/nt9-oh-my-zsh-theme nt9
+#zgen load marszall87/nodeys-zsh-theme nodeys
+#zgen load mgee/slimline slimline
+#zgen load NelsonBrandao/absolute absolute
+#zgen load nksoff/muslim muslim
+#zgen load octarect/clarity.zsh clarity
+
+#zgen load sfabrizio/ozono-zsh-theme ozono-theme
+#zgen load simnalamburt/shellder shellder
+#zgen load subnixr/minimal minimal
+#zgen load victorfsf/guri guri
+zgen load ykmam/ykmam-zsh-theme ykmam
+DEFAULT_USER="$(whoami)"
+#zgen load sevaho/Powerzeesh powerzeesh
